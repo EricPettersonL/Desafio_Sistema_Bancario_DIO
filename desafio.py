@@ -50,7 +50,10 @@ while True:
         else:
             print("O valor precisa ser positivo!")
     elif opcao == "3":
-        print(f"\n{extrato} \nSaldo: R$ {saldo:.2f}")
+        print("\n========== EXTRATO ==========")
+        print("Não foram realizadas movimentações." if not extrato else extrato)
+        print(f"\nSaldo: R$ {saldo:.2f}")
+        print("===============================")
     elif opcao == "4":
         break
     else:
