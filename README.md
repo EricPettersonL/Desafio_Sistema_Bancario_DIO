@@ -1,5 +1,5 @@
-# Sistema de Saque e Depósito Bancário
-Este é um programa Python que simula um sistema simples de saque, depósito e extração de dinheiro.
+# Sistema de Saque e Depósito Bancário Basico
+Este é um programa Python que simula um sistema simples de saque, depósito e extração de dinheiro. Para a realização do primeiro desafio de projeto do curso de Python AI Backend Developer DIO e Vivo
 
 ## Funcionalidades
 O programa oferece as seguintes funcionalidades:
